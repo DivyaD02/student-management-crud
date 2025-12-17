@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAI\\OneDrive\\Desktop\\Assignment\\Backend\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{880DDB62-7B8A-4079-B63C-7FD93E58C706}|WebApplication1\\WebApplication1.csproj|c:\\users\\sai\\onedrive\\desktop\\assignment\\backend\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{880DDB62-7B8A-4079-B63C-7FD93E58C706}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880DDB62-7B8A-4079-B63C-7FD93E58C706}|WebApplication1\\WebApplication1.csproj|c:\\users\\sai\\onedrive\\desktop\\assignment\\backend\\webapplication1\\webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880DDB62-7B8A-4079-B63C-7FD93E58C706}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880DDB62-7B8A-4079-B63C-7FD93E58C706}|WebApplication1\\WebApplication1.csproj|c:\\users\\sai\\onedrive\\desktop\\assignment\\backend\\webapplication1\\webapplication1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880DDB62-7B8A-4079-B63C-7FD93E58C706}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880DDB62-7B8A-4079-B63C-7FD93E58C706}|WebApplication1\\WebApplication1.csproj|c:\\users\\sai\\onedrive\\desktop\\assignment\\backend\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880DDB62-7B8A-4079-B63C-7FD93E58C706}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880DDB62-7B8A-4079-B63C-7FD93E58C706}|WebApplication1\\WebApplication1.csproj|c:\\users\\sai\\onedrive\\desktop\\assignment\\backend\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{880DDB62-7B8A-4079-B63C-7FD93E58C706}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880DDB62-7B8A-4079-B63C-7FD93E58C706}|WebApplication1\\WebApplication1.csproj|c:\\users\\sai\\onedrive\\desktop\\assignment\\backend\\webapplication1\\webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{880DDB62-7B8A-4079-B63C-7FD93E58C706}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880DDB62-7B8A-4079-B63C-7FD93E58C706}|WebApplication1\\WebApplication1.csproj|c:\\users\\sai\\onedrive\\desktop\\assignment\\backend\\webapplication1\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{880DDB62-7B8A-4079-B63C-7FD93E58C706}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\SAI\\OneDrive\\Desktop\\Assignment\\Backend\\WebApplication1\\WebApplication1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\SAI\\OneDrive\\Desktop\\Assignment\\Backend\\WebApplication1\\WebApplication1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T07:33:55.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\SAI\\OneDrive\\Desktop\\Assignment\\Backend\\WebApplication1\\WebApplication1\\models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\models\\Student.cs",
+              "ToolTip": "C:\\Users\\SAI\\OneDrive\\Desktop\\Assignment\\Backend\\WebApplication1\\WebApplication1\\models\\Student.cs",
+              "RelativeToolTip": "WebApplication1\\models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T07:04:02.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SAI\\OneDrive\\Desktop\\Assignment\\Backend\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\SAI\\OneDrive\\Desktop\\Assignment\\Backend\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T06:29:58.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SAI\\OneDrive\\Desktop\\Assignment\\Backend\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\SAI\\OneDrive\\Desktop\\Assignment\\Backend\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-06T07:17:51.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\SAI\\OneDrive\\Desktop\\Assignment\\Backend\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\SAI\\OneDrive\\Desktop\\Assignment\\Backend\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-06T06:43:37.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApplication1",
+              "DocumentMoniker": "C:\\Users\\SAI\\OneDrive\\Desktop\\Assignment\\Backend\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\SAI\\OneDrive\\Desktop\\Assignment\\Backend\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-06T06:33:07.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\SAI\\OneDrive\\Desktop\\Assignment\\Backend\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\SAI\\OneDrive\\Desktop\\Assignment\\Backend\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-06T06:27:05.187Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
