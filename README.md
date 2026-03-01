@@ -1,0 +1,1 @@
+The Student Management System is a full-stack web application for managing student records. It supports CRUD operations through a user-friendly interface and is built using React for the frontend, ASP.NET Core Web API for the backend, and SQL Server for data storage.
